@@ -1,0 +1,46 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Deus é fiel",
+      "autoria": "Deus",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Jesus é o caminho a verdade e a vida",
+      "autoria": "Jesus",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Sem Jesus não sou nada",
+      "autoria": "Renato",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "amem",
+      "autoria": "Jesus",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Aleluia",
+      "autoria": "Gloria Deus!",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "conteudo": "isso ai, deu cerrto a parte de editar o pensamento, alterandoa a cor.",
+      "autoria": "renatinho siva",
+      "modelo": "modelo3",
+      "id": 7
+    },
+    {
+      "conteudo": "ebaaaa",
+      "autoria": "ebaaaa",
+      "modelo": "modelo3",
+      "id": 8
+    }
+  ]
+}
